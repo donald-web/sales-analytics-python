@@ -77,8 +77,31 @@ city
 ▶️ How to Run
 Step 1: Install Dependencies
 pip install pandas matplotlib
+
 Step 2: Run Project
 python scripts/data_ingestion.py
 python scripts/data_processing.py
 python scripts/mis_report.py
 python scripts/chatbot.py
+💡 Key Features
+✅ End-to-end data pipeline
+✅ MIS report generation
+✅ Basic chatbot interaction
+✅ Insight generation
+✅ Clean and modular structure
+
+🧠 Learning Outcomes
+Understand data pipelines
+Work with real-world datasets
+Generate reports and insights
+Build simple AI-like systems
+🔮 Future Improvements
+Integrate live APIs
+Use ERP systems like ERPNext
+Add advanced AI chatbot
+Build web dashboard (Streamlit)
+👨‍💻 Author
+Donatus Rwechungula Bagera
+
+⭐ Contribution
+Feel free to fork, improve, and contribute!
