@@ -5,9 +5,7 @@ sales-analytics-python is a beginner-friendly end-to-end data analytics project 
 It demonstrates how to create a complete data pipeline — from raw data to insights — inspired by real-world enterprise systems like AIONEXUS.
 
 🎯 Objective
-
 The goal of this project is to:
-
 Ingest data from different sources
 Process and clean the data
 Store structured data
@@ -54,19 +52,14 @@ Store cleaned data in:
 CSV OR
 SQLite database
 4. MIS Reporting
-
 Generate key reports:
 
 Total Sales
 Monthly Sales
 Top Products
-
 Visualize data using graphs.
-
 5. Chatbot System
-
 Ask questions like:
-
 “What is total sales?”
 “Which product is best?”
 6. Insights Generation
